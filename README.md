@@ -1,6 +1,6 @@
 <img src="https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/pretoevermelho.gif">
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/564x/07/fd/af/07fdaf3ff4704a64a51d849acd78b7c1.jpg">
+<img align="right" alt="Coding" width="300" src="https://www.animationsoftware7.com/gif/electricity/discharge03/">
 
  📚 Systems Development - Senai Roberto Mange <br> 
  🎓 Analysis & Systems Development - Universidade São Francisco <br>
