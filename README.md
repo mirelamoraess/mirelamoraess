@@ -1,6 +1,6 @@
 <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0124.gif">
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/a2/8f/db/a28fdbd739f7c403a3aa95fa008dcc27.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/564x/07/fd/af/07fdaf3ff4704a64a51d849acd78b7c1.jpg">
 
  📚 Systems Development - Senai Roberto Mange <br> 
  🎓 Analysis & Systems Development - Universidade São Francisco <br>
