@@ -1,11 +1,11 @@
-<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0124.gif">
+<img src="https://i.pinimg.com/originals/f2/f9/bd/f2f9bd4669f20e81ccf0bd11fa93d9e5.gif">
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/564x/07/fd/af/07fdaf3ff4704a64a51d849acd78b7c1.jpg">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/564x/07/fd/af/07fdaf3ff4704a64a51d849acd78b7c1.jpg">
 
  📚 Systems Development - Senai Roberto Mange <br> 
  🎓 Analysis & Systems Development - Universidade São Francisco <br>
 
-### • Languages and Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="40">
+### • Languages and Tools
 
 <div align="left">
 <p>
@@ -16,4 +16,4 @@
 </div>
 <br>     
 
- <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0124.gif">
+<img src="https://i.pinimg.com/originals/f2/f9/bd/f2f9bd4669f20e81ccf0bd11fa93d9e5.gif">
