@@ -1,6 +1,6 @@
 <img src="https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/pretoevermelho.gif">
 
-<img align="right" alt="Coding" margin-top = "100" width="200" src="https://i.pinimg.com/originals/7d/2c/12/7d2c1229dc1bcf745aa5e59cc090ab44.gif">
+<img align="right" alt="Coding"  width="250" src="https://i.pinimg.com/originals/75/d4/ee/75d4eebb74bd12b0a8f07ba23ee14f54.gif">
 
  📚 Systems Development - Senai Roberto Mange <br> 
  🎓 Analysis & Systems Development - Universidade São Francisco <br>
