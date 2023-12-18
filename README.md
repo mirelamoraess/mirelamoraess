@@ -1,6 +1,6 @@
 <img src="https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/pretoevermelho.gif">
 
-<img align="right" alt="Coding" width="300" src="https://www.animationsoftware7.com/img/agifs/electricity03.gif">
+<img align="right" alt="Coding" width="200" src="https://www.animationsoftware7.com/img/agifs/electricity03.gif">
 
  📚 Systems Development - Senai Roberto Mange <br> 
  🎓 Analysis & Systems Development - Universidade São Francisco <br>
