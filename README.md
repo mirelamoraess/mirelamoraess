@@ -1,4 +1,4 @@
-<img src="https://www.imagensanimadas.com/img-linha-imagem-animada-0378-106326.htm#linkit">
+<img src="https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/pretoevermelho.gif">
 
  📚 Systems Development - Senai Roberto Mange <br> 
  🎓 Analysis & Systems Development - Universidade São Francisco <br>
