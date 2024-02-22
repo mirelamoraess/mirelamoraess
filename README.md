@@ -8,7 +8,7 @@
 <div align="left">
 <p>
     <a>
-        <img src="https://skillicons.dev/icons?i=py,java,html,css,javascript,github,figma" width="38%" height="38%"/>
+        <img src="https://skillicons.dev/icons?i=py,java,html,css,javascript,github,figma,sql" width="38%" height="38%"/>
     </a>
 </p>
 </div>
