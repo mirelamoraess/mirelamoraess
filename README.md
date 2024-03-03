@@ -10,8 +10,7 @@
 <div align="center" width="100%">
           
  📚 Systems Development - Senai Roberto Mange   |   🎓 Systems Development - USF <br>
-
- <br>
+<br>
 </div>
 
 <div align="center">
