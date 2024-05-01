@@ -20,7 +20,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 </div>
 <br> 
@@ -31,4 +32,3 @@
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mirelamoraess&show_icons=true&count_private=true&hide_border=true&title_color=c9c1e5&icon_color=7B07FF&text_color=a07dce&bg_color=0d1117" alt="Mirela Moraes github stats" /> 
  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=mirelamoraess&show_icons=true&hide_border=true&locale=en&layout=compact&title_color=c9c1e5&icon_color=a07dce&text_color=a07dce&bg_color=0d1117&ring=c9c1e5&fire=a07dce&currStreakLabel=c9c1e5&currStreakNum=a07dce&sideNums=a07dce&sideLabels=c9c1e5&background=0d1117&dates=a07dce" />
 </div>
-
