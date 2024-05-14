@@ -21,7 +21,7 @@
   <br>
   <p>
     <a>
-      <img src="https://skillicons.dev/icons?i=js,react,django,github,python,java,c,html,css,mysql&perline=10" width="40%" height="30%" />
+      <img src="https://skillicons.dev/icons?i=js,react,django,github,python,java,c,html,css,mysql&perline=10" width="45%" height="30%" />
     </a>
   </p>
 </div>
