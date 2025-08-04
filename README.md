@@ -10,21 +10,18 @@
   <br>
 </div>
 
-<div align="center">
-  <br>
-  <p>
-    📚 Systems Development - Senai Roberto Mange | 🎓 Analysis & Systems Development - USF <br>
-  </p>
-</div>
 
 <div align="center">
   <br>
+  <h2 style="color:#c9c1e5; font-weight:600;">Tech Skills</h2>
   <p>
     <a>
-      <img src="https://skillicons.dev/icons?i=js,react,django,github,python,java,c,html,css,mysql&perline=10" width="45%" height="30%" />
+      <img src=https://skillicons.dev/icons?i=js,ts,react,django,fastapi,github,python,java,c,html,css,mysql,postgres,mongodb,docker,azure,tensorflow,pytorch,scikitlearn,opencv,unity
+ />
     </a>
   </p>
 </div>
+
 
 <div align="center">
   <br>
