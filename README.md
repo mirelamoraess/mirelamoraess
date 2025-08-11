@@ -1,36 +1,30 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9c1e5&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile%21;My+name+is+Mirela%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile%21;My+name+is+Mirela%21)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <hr style="border: 0.1px solid white; width: 80%;">
 </div>
 
 <div align="center">
   <br>
-  <img width="80%" alt="Coding" src="https://i.pinimg.com/originals/4e/af/b9/4eafb9d14230b57193f327316c0760d1.gif" />
+  <img width="70%" alt="Coding" src="https://i.pinimg.com/originals/4e/af/b9/4eafb9d14230b57193f327316c0760d1.gif" />
   <br>
 </div>
 
-
 <div align="center">
   <br>
-  <h2 style="color:#c9c1e5; font-weight:600;">Tech Skills</h2>
+  <h2 style="color:white; font-weight:600;">Tech Skills</h2>
   <p>
-    <a>
-      <img src=https://skillicons.dev/icons?i=js,ts,react,django,fastapi,github,python,java,c,html,css,mysql,postgres,mongodb,docker,azure,tensorflow,pytorch,scikitlearn,opencv,unity
- />
-    </a>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,django,fastapi,github,python,java,c,html" /><br>
+    <img src="https://skillicons.dev/icons?i=css,mysql,postgres,mongodb,docker,azure,tensorflow,pytorch,scikitlearn,opencv,unity" />
   </p>
 </div>
 
-
 <div align="center">
-  <br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  <br>
+  <hr style="border: 0.5px solid white; width: 80%;">
 </div>
 
 <div align="center">
   <br>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mirelamoraess&show_icons=true&count_private=true&hide_border=true&title_color=c9c1e5&icon_color=7B07FF&text_color=a07dce&bg_color=0d1117" alt="Mirela Moraes github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=mirelamoraess&show_icons=true&hide_border=true&locale=en&layout=compact&title_color=c9c1e5&icon_color=a07dce&text_color=a07dce&bg_color=0d1117&ring=c9c1e5&fire=a07dce&currStreakLabel=c9c1e5&currStreakNum=a07dce&sideNums=a07dce&sideLabels=c9c1e5&background=0d1117&dates=a07dce" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mirelamoraess&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=B399FF&text_color=FFFFFF&bg_color=0d1117" alt="Mirela Moraes github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=mirelamoraess&show_icons=true&hide_border=true&locale=en&layout=compact&title_color=FFFFFF&icon_color=B399FF&text_color=FFFFFF&bg_color=0d1117&ring=FFFFFF&fire=B399FF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
 </div>
