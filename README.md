@@ -17,6 +17,25 @@
 ##
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mirelamoraess&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=B399FF&text_color=FFFFFF&bg_color=0d1117" alt="Mirela Moraes github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=mirelamoraess&hide_border=true&background=0d1117&stroke=FFFFFF&ring=B399FF&fire=B399FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" />
+  <div
+    style="
+      display: flex;
+      justify-content: space-between;
+      text-align: center;
+      gap: 1rem;
+    "
+  >
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=mirelamoraess&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=B399FF&text_color=FFFFFF&bg_color=0d1117"
+      alt="Mirela Moraes Github Stats"
+    />
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirelamoraess&layout=compact&hide=html,css&title_color=FFFFFF&icon_color=B399FF&text_color=FFFFFF&bg_color=0d1117"
+      alt="Mirela Moraes Top Languages"
+    />
+  </div>
 </div>
+
+<br />
